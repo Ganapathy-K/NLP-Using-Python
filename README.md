@@ -19,7 +19,7 @@ Day 3: Apply CountVectorization to the input data & answer the following:
   4. Finding out words that appear in all/maximum sentences/documents
 Doubts:
   1. What would happen if we set stop_words='english' in the CountVectorizer?
-  2. Shoud we manually explain the tone of 'happy' or should we write a code (Like for pick out term that occurs in all documents)
+  2. Should we manually explain the tone of 'happy' or should we write a code (Like for pick out term that occurs in all documents)
 
 Day 4: Multinomial Naive Bayes model on 'Movie Review' dataset: 
   1. Pre processing steps - Using NLTK and RE module to:
