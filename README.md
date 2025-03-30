@@ -17,7 +17,7 @@ Day 3: Apply CountVectorization to the input data & answer the following:
   2. Vocabulary (unique words in corpus)
   3. Calculating frequency of top N words (top 1 word = most frequent term)
   4. Finding out words that appear in all/maximum sentences/documents
-  5. <Doubts>:
+  5. (Doubts):
      1. What would happen if we set stop_words='english' in the CountVectorizer?
      2. Should we manually explain the tone of 'happy' or should we write a code (Like for pick out term that occurs in all documents)
 
