@@ -12,10 +12,10 @@ Day 2:
   2. Using NLTK and RE module to tokenize text, remove stop words, special characters
   3. Using wordcloud library to generate word cloud from cleaned text
 
-Day 3:
+Day 3: Apply CountVectorization to the input data & answer the following:
   1. Count Vectorizer Matrix
   2. Vocabulary (unique words in corpus)
-  3. Calculating frequency of top N words
+  3. Calculating frequency of top N words (top 1 word = most frequent term)
   4. Finding out words that appear in all/maximum sentences/documents
   Doubts:
     1. What would happen if we set stop_words='english' in the CountVectorizer?
