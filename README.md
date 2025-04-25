@@ -27,4 +27,9 @@ Day 4: Multinomial Naive Bayes model on 'Movie Review' dataset:
      2. Remove stop words
      3. Remove special characters
   2. Word Cloud for the data
-  4. MultiNB Model
+  3. MultiNB Model
+
+Capstone Project: Major concepts used: 
+  1. Words Tokenization 
+  2. Stop Words 
+  3. Lemmatization
